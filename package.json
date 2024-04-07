@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  },
+  "name": "ntokozo-kubheka-269-password-checker-javascript",
+  "description": "Password strength checker (269) For raw project instructions see: http://syllabus.africacode.net/projects/tdd/password-checker/part1/",
+  "version": "1.0.0",
+  "main": "src/password_check.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Ntokozo H. Kubheka",
+  "license": "ISC"
+}
